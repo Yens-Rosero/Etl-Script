@@ -1,0 +1,10 @@
+# Archivos de residuos de Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Directorios generados por herramientas de construcción de Python
+.build/
+dist/
+venv/
